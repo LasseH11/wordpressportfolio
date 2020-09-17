@@ -16,6 +16,10 @@
 
 /* ----- Menu ændringer ----- */
 
+body{
+    background-color: #313131!important;
+}
+
 /* Fjern padding af menu bar i top og bund for at gøre menu linjen tyndere */
 .main-header-bar {
     padding: 0em 0;
